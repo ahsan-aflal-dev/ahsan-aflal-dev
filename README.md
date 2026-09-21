@@ -157,7 +157,7 @@ experimentation, and increasingly complex AI systems.
 
 **LinkedIn:** [Ahsan Aflal](...)
 
-**Portfolio:** [Coming Soon](...)
+**Portfolio:** [ahsan-aflal.vercel.app](...)
 
 **Email:** [Ahsan200505@gmail.com](...)
 
