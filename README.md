@@ -1,4 +1,4 @@
-# Hi, I'm Ahsan 👋
+# HI, I'm AHSAN 👋
 
 ### AI/ML Software Engineer in the Making | Intelligent Systems | Autonomous AI
 
