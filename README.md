@@ -1,3 +1,18 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsan-aflal-dev/ahsan-aflal-dev/main/dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahsan-aflal-dev/ahsan-aflal-dev/main/light.svg?v=1">
+  <img alt="Tuan Ahsan Aflal - profile.sh --live" src="https://raw.githubusercontent.com/ahsan-aflal-dev/ahsan-aflal-dev/main/dark.svg?v=1" width="100%">
+</picture>
+
+<p align="center">
+  <img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ahsan-aflal-dev&background=0A101F&border=22D3EE&stroke=1E2A44&ring=22D3EE&fire=10B981&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=22D3EE&sideLabels=8B9BB4&dates=8B9BB4" />
+</p>
+
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats-eight-jade-47.vercel.app/api?username=ahsan-aflal-dev&show_icons=true&hide_rank=true&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=E6EDF7&icon_color=10B981" />
+  <img width="49%" alt="Top languages" src="https://github-readme-stats-eight-jade-47.vercel.app/api/top-langs/?username=ahsan-aflal-dev&layout=compact&langs_count=8&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=E6EDF7" />
+</p>
+
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=ahsan-aflal-dev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
