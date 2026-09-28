@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsan-aflal-dev/github-readme-stats/refs/heads/master/dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahsan-aflal-dev/github-readme-stats/refs/heads/master/light.svg?v=1">
+  <img alt="Tuan Ahsan Aflal - profile.sh --live" src="https://raw.githubusercontent.com/ahsan-aflal-dev/github-readme-stats/refs/heads/master/dark.svg?v=1" width="100%">
+</picture>
 
 <p align="center">
   <img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ahsan-aflal-dev&background=0A101F&border=22D3EE&stroke=1E2A44&ring=22D3EE&fire=10B981&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=22D3EE&sideLabels=8B9BB4&dates=8B9BB4" />
