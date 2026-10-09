@@ -4,6 +4,125 @@
   <img alt="Tuan Ahsan Aflal - profile.sh --live" src="https://raw.githubusercontent.com/ahsan-aflal-dev/github-readme-stats/refs/heads/master/dark.svg?v=1" width="100%">
 </picture>
 
+<div align="center">
+
+<a href="https://github.com/ahsan-aflal-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=AI%2FML+Engineering+%E2%80%94+building+intelligent+systems%2C+retrieval+pipelines%2C+AI-powered+software;10+projects.+90+days.+Building+in+public.;Local-first+RAG+%C2%B7+Autonomous+agents+%C2%B7+FastAPI+backends" alt="Typing animation"/>
+</a>
+
+<br/>
+
+![10 projects in 90 days](https://img.shields.io/badge/10_Projects_in_90_Days-2_started-22D3EE?style=for-the-badge&labelColor=0A101F)
+![Focus](https://img.shields.io/badge/Focus-RAG_%C2%B7_Agents_%C2%B7_Local_LLMs-A78BFA?style=for-the-badge&labelColor=0A101F)
+![Status](https://img.shields.io/badge/Status-Building-10B981?style=for-the-badge&labelColor=0A101F)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```bash
+$ whoami
+Tuan Ahsan Aflal — AI/ML Engineer
+
+$ cat focus.txt
+retrieval pipelines · RAG · local-first AI · autonomous agents · FastAPI backends
+
+$ cat mission.txt
+Build 10 real projects in 90 days — each one tested, documented and shipped.
+```
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔎 [NEXUS](https://github.com/ahsan-aflal-dev/nexus-research-intelligence)
+**Research & Knowledge Intelligence**
+
+Local-first research assistant that turns PDFs into a searchable knowledge base with evidence-backed answers, source references and retrieval evaluation.
+
+`Recall@3 100%` · `MRR 93.75%` *(small benchmark)*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧭 ORION
+**Workflow Planning Backend**
+
+FastAPI backend that turns goals into structured workflows, with generation, approval, lifecycle tracking, dashboard API and a full automated test suite.
+
+`Hermes agent integration` · `evaluation` · `release` *in progress*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 JARVIS
+**Autonomous AI Assistant**
+
+Large Python assistant built on a structured 20-phase plan: orchestrator, skill system, computer & browser control, persistent memory, self-healing, security permissions, self-updating and dynamic skill acquisition.
+
+`Hermes brain` · `desktop automation` · `sandboxed skills`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/ahsan-aflal-dev/nexus-research-intelligence">
+    <img width="49%" alt="NEXUS repo card" src="https://github-readme-stats-eight-jade-47.vercel.app/api/pin/?username=ahsan-aflal-dev&repo=nexus-research-intelligence&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=E6EDF7&icon_color=10B981" />
+  </a>
+</p>
+
+## 🗓️ 10 Projects in 90 Days
+
+| # | Project | Status |
+|:-:|---|---|
+| 01 | **ORION** | 🟡 In progress |
+| 02 | **NEXUS** | 🟢 Built, documented & published |
+| 03 | ATLAS | ⚪ Queued |
+| 04 | SENTINEL | ⚪ Queued |
+| 05 | PULSE | ⚪ Queued |
+| 06 | FORGE | ⚪ Queued |
+| 07 | AURORA | ⚪ Queued |
+| 08 | MERIDIAN | ⚪ Queued |
+| 09 | ACEDEMIA | ⚪ Queued |
+| 10 | APEX | ⚪ Queued |
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ahsan-aflal-dev&background=0A101F&border=22D3EE&stroke=1E2A44&ring=22D3EE&fire=10B981&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=22D3EE&sideLabels=8B9BB4&dates=8B9BB4" />
 </p>
@@ -14,13 +133,6 @@
 </p>
 
 <div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=ahsan-aflal-dev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-<br/>
-<img width="49%" src="https://github-readme-stats-eight-jade-47.vercel.app/api?username=ahsan-aflal-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-eight-jade-47.vercel.app/api/top-langs/?username=ahsan-aflal-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
-</div>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsan-aflal-dev/ahsan-aflal-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahsan-aflal-dev/ahsan-aflal-dev/output/github-snake.svg" />
@@ -28,6 +140,7 @@
 </picture>
 </div>
 
+## 📫 Let's Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/tuan-ahsan-37158036a/">
@@ -41,4 +154,8 @@
 <a href="mailto:ahsan200505@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer wave" width="100%"/>
 </div>
