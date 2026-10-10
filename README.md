@@ -16,70 +16,44 @@
 ![Focus](https://img.shields.io/badge/Focus-RAG_%C2%B7_Agents_%C2%B7_Local_LLMs-A78BFA?style=for-the-badge&labelColor=0A101F)
 ![Status](https://img.shields.io/badge/Status-Building-10B981?style=for-the-badge&labelColor=0A101F)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-ahsan-37158036a/)
+[![Email](https://img.shields.io/badge/Email-0A101F?style=flat-square&logo=gmail&logoColor=10B981&labelColor=0A101F)](mailto:ahsan200505@gmail.com)
+[![NEXUS](https://img.shields.io/badge/Featured-NEXUS-22D3EE?style=flat-square&labelColor=0A101F)](https://github.com/ahsan-aflal-dev/nexus-research-intelligence)
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
 </div>
 
----
+<div align="center">
 
-## `$ whoami`
+<img src="assets/terminal.svg" alt="whoami — Tuan Ahsan Aflal, AI/ML Engineer. Focus: retrieval pipelines, RAG, local-first AI, autonomous agents, FastAPI backends. Mission: build 10 real projects in 90 days." width="100%"/>
 
-```bash
-$ whoami
-Tuan Ahsan Aflal — AI/ML Engineer
+<br/><br/>
 
-$ cat focus.txt
-retrieval pipelines · RAG · local-first AI · autonomous agents · FastAPI backends
+<img src="assets/skills.svg" alt="Skills: Python, FastAPI, React, TypeScript, Vite, NumPy, SQLite, pytest, Git, RAG, Sentence Transformers, PyMuPDF, Hermes CLI, LM Studio" width="100%"/>
 
-$ cat mission.txt
-Build 10 real projects in 90 days — each one tested, documented and shipped.
-```
+<br/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🔎 [NEXUS](https://github.com/ahsan-aflal-dev/nexus-research-intelligence)
-**Research & Knowledge Intelligence**
-
-Local-first research assistant that turns PDFs into a searchable knowledge base with evidence-backed answers, source references and retrieval evaluation.
-
-`Recall@3 100%` · `MRR 93.75%` *(small benchmark)*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/ahsan-aflal-dev/nexus-research-intelligence">
+<img src="assets/card-nexus.svg" alt="NEXUS — Research & Knowledge Intelligence" width="100%"/>
+</a>
 </td>
-<td width="33%" valign="top">
-
-### 🧭 ORION
-**Workflow Planning Backend**
-
-FastAPI backend that turns goals into structured workflows, with generation, approval, lifecycle tracking, dashboard API and a full automated test suite.
-
-`Hermes agent integration` · `evaluation` · `release` *in progress*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
+<td width="33%" align="center" valign="top">
+<img src="assets/card-orion.svg" alt="ORION — Workflow Planning Backend" width="100%"/>
 </td>
-<td width="33%" valign="top">
-
-### 🤖 JARVIS
-**Autonomous AI Assistant**
-
-Large Python assistant built on a structured 20-phase plan: orchestrator, skill system, computer & browser control, persistent memory, self-healing, security permissions, self-updating and dynamic skill acquisition.
-
-`Hermes brain` · `desktop automation` · `sandboxed skills`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
+<td width="33%" align="center" valign="top">
+<img src="assets/card-jarvis.svg" alt="JARVIS — Autonomous AI Assistant" width="100%"/>
 </td>
 </tr>
 </table>
@@ -90,7 +64,20 @@ Large Python assistant built on a structured 20-phase plan: orchestrator, skill 
   </a>
 </p>
 
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
+
 ## 🗓️ 10 Projects in 90 Days
+
+<div align="center">
+
+<img src="assets/roadmap.svg" alt="10 projects in 90 days roadmap: ORION in progress, NEXUS published, the rest queued" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>View the full project list</b></summary>
+
+<br/>
 
 | # | Project | Status |
 |:-:|---|---|
@@ -104,6 +91,10 @@ Large Python assistant built on a structured 20-phase plan: orchestrator, skill 
 | 08 | MERIDIAN | ⚪ Queued |
 | 09 | ACEDEMIA | ⚪ Queued |
 | 10 | APEX | ⚪ Queued |
+
+</details>
+
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## 🛠️ Tech Stack
 
@@ -121,6 +112,8 @@ Large Python assistant built on a structured 20-phase plan: orchestrator, skill 
 
 </div>
 
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -132,6 +125,10 @@ Large Python assistant built on a structured 20-phase plan: orchestrator, skill 
   <img width="49%" alt="Top languages" src="https://github-readme-stats-eight-jade-47.vercel.app/api/top-langs/?username=ahsan-aflal-dev&layout=compact&langs_count=8&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=E6EDF7" />
 </p>
 
+<p align="center">
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahsan-aflal-dev&bg_color=0A101F&color=22D3EE&line=A78BFA&point=E6EDF7&area=true&area_color=22D3EE&hide_border=true" />
+</p>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsan-aflal-dev/ahsan-aflal-dev/output/github-snake-dark.svg" />
@@ -139,6 +136,8 @@ Large Python assistant built on a structured 20-phase plan: orchestrator, skill 
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ahsan-aflal-dev/ahsan-aflal-dev/output/github-snake.svg" />
 </picture>
 </div>
+
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## 📫 Let's Connect
 
